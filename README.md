@@ -1,3 +1,4 @@
+
 <div align="center">
 <h1 align="center">Hi, I'm Matheus</h1>
 <h4 align="center">a FullStack developer </h4>
@@ -35,9 +36,30 @@
 
 <details>
   <summary>🧮 about</summary>
-<div>
-<h2 align="center">🧮 About this Account</h2>
-  [![JavaScript](https://img.shields.io/badge/JavaScript-2CA5E0?style=flat&logo=kaggle&logoColor=20BEFF&color=646568)]
+<div markdown="1" class=type>
+  <h2 align="center">🧮 Skills </h2>
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23316192.svg?style=flat&logo=javascript&logoColor=yellow&color=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-%23316192.svg?style=flat&logo=HTML5&logoColor=white&color=FF4C1E)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%23316192.svg?style=flat&logo=TypeScript&logoColor=white&color=083061)
+  ![CSS3](https://img.shields.io/badge/CSS3-%23316192.svg?style=flat&logo=CSS3&logoColor=white&color=1572B7)
+  ![ReactJS](https://img.shields.io/badge/ReactJS-%23316192.svg?style=flat&logo=React&logoColor=blue&color=grey)
+  ![NodeJS](https://img.shields.io/badge/NodeJS-%23316192.svg?style=flat&logo=Node.Js&logoColor=green&color=383636)
+  ![Jest](https://img.shields.io/badge/Jest-%23316192.svg?style=flat&logo=Jest&logoColor=white&color=853957)
+  ![MySql](https://img.shields.io/badge/MySql-%23316192.svg?style=flat&logo=MYSQL&logoColor=yellow&color=blue)
+  ![AWS](https://img.shields.io/badge/AWS-%23316192.svg?style=flat&logo=AMAZONAWS&logoColor=FD9A01&color=232F3F)
+  ![Postman](https://img.shields.io/badge/Postman-%23316192.svg?style=flat&logo=Postman&logoColor=FD6C35&color=white)
+  ![Express](https://img.shields.io/badge/Express-%23316192.svg?style=flat&logo=Express&logoColor=yellow&color=black)
+  
+  <h2 align="center">🧮 Learning </h2>
+  
+  ![Angular9](https://img.shields.io/badge/Angular9-%23316192.svg?style=flat&logo=Angular&logoColor=red&color=009FE1)
+  ![VUE.JS](https://img.shields.io/badge/VUE.JS-%23316192.svg?style=flat&logo=VUE.JS&logoColor=grey&color=02C080)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23316192.svg?style=flat&logo=Bootstrap&logoColor=white&color=5E3F88)
+  ![Solidity](https://img.shields.io/badge/Solidity-%23316192.svg?style=flat&logo=Solidity&logoColor=grey&color=white)
+  ![Ruby](https://img.shields.io/badge/Ruby-%23316192.svg?style=flat&logo=Ruby&logoColor=white&color=D5232F)
+  
+  
 </div>
 </details>
 
