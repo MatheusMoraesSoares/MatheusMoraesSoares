@@ -34,6 +34,14 @@
 </details>
 
 <details>
+  <summary>🧮 about</summary>
+<div>
+<h2 align="center">🧮 About this Account</h2>
+  
+</div>
+</details>
+
+<details>
   <summary>🌏 global</summary>
 <div>
 <h2 align="center"> Wanna learn more something about me? </h2>
