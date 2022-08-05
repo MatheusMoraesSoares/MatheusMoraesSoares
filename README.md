@@ -58,6 +58,7 @@
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23316192.svg?style=flat&logo=Bootstrap&logoColor=white&color=5E3F88)
   ![Solidity](https://img.shields.io/badge/Solidity-%23316192.svg?style=flat&logo=Solidity&logoColor=grey&color=white)
   ![Ruby](https://img.shields.io/badge/Ruby-%23316192.svg?style=flat&logo=Ruby&logoColor=white&color=D5232F)
+  ![Mongodb](https://img.shields.io/badge/Mongodb-%23316192.svg?style=flat&logo=Mongodb&logoColor=brown&color=green)
   
   
 </div>
