@@ -45,6 +45,7 @@
   ![CSS3](https://img.shields.io/badge/CSS3-%23316192.svg?style=flat&logo=CSS3&logoColor=white&color=1572B7)
   ![ReactJS](https://img.shields.io/badge/ReactJS-%23316192.svg?style=flat&logo=React&logoColor=blue&color=grey)
   ![NodeJS](https://img.shields.io/badge/NodeJS-%23316192.svg?style=flat&logo=Node.Js&logoColor=green&color=383636)
+  ![Rest](https://img.shields.io/badge/Rest-%23316192.svg?style=flat&logo=Rest&logoColor=white&color=blue)
   ![Jest](https://img.shields.io/badge/Jest-%23316192.svg?style=flat&logo=Jest&logoColor=white&color=853957)
   ![MySql](https://img.shields.io/badge/MySql-%23316192.svg?style=flat&logo=MYSQL&logoColor=yellow&color=blue)
   ![AWS](https://img.shields.io/badge/AWS-%23316192.svg?style=flat&logo=AMAZONAWS&logoColor=FD9A01&color=232F3F)
