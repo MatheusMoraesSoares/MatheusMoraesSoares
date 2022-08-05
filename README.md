@@ -37,7 +37,7 @@
   <summary>🧮 about</summary>
 <div>
 <h2 align="center">🧮 About this Account</h2>
-  
+  [![JavaScript](https://img.shields.io/badge/JavaScript-2CA5E0?style=flat&logo=kaggle&logoColor=20BEFF&color=646568)]
 </div>
 </details>
 
