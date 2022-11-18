@@ -43,6 +43,7 @@
   ![HTML5](https://img.shields.io/badge/HTML5-%23316192.svg?style=flat&logo=HTML5&logoColor=white&color=FF4C1E)
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23316192.svg?style=flat&logo=TypeScript&logoColor=white&color=083061)
   ![CSS3](https://img.shields.io/badge/CSS3-%23316192.svg?style=flat&logo=CSS3&logoColor=white&color=1572B7)
+  ![VUE.JS](https://img.shields.io/badge/VUE.JS-%23316192.svg?style=flat&logo=VUE.JS&logoColor=grey&color=02C080)
   ![ReactJS](https://img.shields.io/badge/ReactJS-%23316192.svg?style=flat&logo=React&logoColor=blue&color=grey)
   ![NodeJS](https://img.shields.io/badge/NodeJS-%23316192.svg?style=flat&logo=Node.Js&logoColor=green&color=383636)
   ![Rest](https://img.shields.io/badge/Rest-%23316192.svg?style=flat&logo=Rest&logoColor=white&color=blue)
@@ -55,7 +56,6 @@
   <h2 align="center">🧮 Learning </h2>
   
   ![Angular9](https://img.shields.io/badge/Angular9-%23316192.svg?style=flat&logo=Angular&logoColor=red&color=009FE1)
-  ![VUE.JS](https://img.shields.io/badge/VUE.JS-%23316192.svg?style=flat&logo=VUE.JS&logoColor=grey&color=02C080)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23316192.svg?style=flat&logo=Bootstrap&logoColor=white&color=5E3F88)
   ![Solidity](https://img.shields.io/badge/Solidity-%23316192.svg?style=flat&logo=Solidity&logoColor=grey&color=white)
   ![Ruby](https://img.shields.io/badge/Ruby-%23316192.svg?style=flat&logo=Ruby&logoColor=white&color=D5232F)
